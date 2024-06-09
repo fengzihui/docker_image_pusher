@@ -1,2 +1,1 @@
-kenlk/onlyoffice
 onlyoffice/documentserver
