@@ -1,2 +1,2 @@
-onlyoffice/documentserver:7.3.3
+onlyoffice/documentserver
 kenlk/onlyoffice
